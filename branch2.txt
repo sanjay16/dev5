@@ -1,1 +1,1 @@
-maven purpose is to build the source code ito packages
+maven purpose is to build the source code ito packages.backup is possible using nexus
